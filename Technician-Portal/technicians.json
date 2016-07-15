@@ -1,0 +1,59 @@
+{
+  "technicians": [
+    {
+      "technicianId": 64002,
+      "technicianCode": "74500",
+      "firstName": "Chris",
+      "lastName": "Gutierrez",
+      "phone": null,
+      "email": null,
+      "homeStoreId": 4,
+      "homeStoreCode": "MAIN",
+      "homeStoreName": "Houston Scale Co. Inc."
+    },
+    {
+      "technicianId": 64004,
+      "technicianCode": "75280",
+      "firstName": "Christon",
+      "lastName": "Ramsey",
+      "phone": null,
+      "email": null,
+      "homeStoreId": 4,
+      "homeStoreCode": "MAIN",
+      "homeStoreName": "Houston Scale Co. Inc."
+    },
+    {
+      "technicianId": 64001,
+      "technicianCode": "71019",
+      "firstName": "Melvin",
+      "lastName": "Jefferies",
+      "phone": null,
+      "email": null,
+      "homeStoreId": 4,
+      "homeStoreCode": "MAIN",
+      "homeStoreName": "Houston Scale Co. Inc."
+    },
+    {
+      "technicianId": 64003,
+      "technicianCode": "74994",
+      "firstName": "Richard",
+      "lastName": "Detuncq",
+      "phone": null,
+      "email": null,
+      "homeStoreId": 4,
+      "homeStoreCode": "MAIN",
+      "homeStoreName": "Houston Scale Co. Inc."
+    },
+    {
+      "technicianId": 64006,
+      "technicianCode": "RD",
+      "firstName": "Robert",
+      "lastName": "Detuncq",
+      "phone": null,
+      "email": null,
+      "homeStoreId": 4,
+      "homeStoreCode": "MAIN",
+      "homeStoreName": "Houston Scale Co. Inc."
+    }
+  ]
+}
