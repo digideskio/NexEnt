@@ -6,7 +6,7 @@ The actual naming of the routes can still be decided, but for now we can work wi
   /config/jobs/gridcolumns
 ```
 
-##Sample data for each end-point
+##Format of data for each end-point
 ###/jobs
 Array of job objects
 ```json
