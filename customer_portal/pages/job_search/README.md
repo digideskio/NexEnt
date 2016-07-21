@@ -1,4 +1,4 @@
-##End Points
+##End Points (Routes)
 The actual naming of the routes can still be decided, but for now we can work with the following.
 ```
   /jobs
