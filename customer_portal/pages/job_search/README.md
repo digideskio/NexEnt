@@ -4,6 +4,7 @@ The actual naming of the routes can still be decided, but for now we can work wi
   /jobs
   /technicians
   /config/jobs/gridcolumns
+  /config/assets/images
 ```
 
 ##Format of data for each end-point
@@ -120,3 +121,6 @@ For example
   }
 }
 ```
+
+### /config/assets/images
+Custom images for this deployment
